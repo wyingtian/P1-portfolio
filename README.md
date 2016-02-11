@@ -15,3 +15,10 @@ This is a portfolio website to show the name and picture of the student. It also
 
 ## Outside Code
 + Bootstrap: <http://getbootstrap.com>
++ Google fonts: <https://www.google.com/fonts>
++ Pictures by Google image Search:
+    <http://karinehmasihi.com/wp-content/uploads/2012/08/fin33.jpg>
+    <http://www.webcoursesbangkok.com/wp-content/uploads/2011/09/lorem-ipsum-banner.jpg>
+    <http://www.androidheadlines.com/wp-content/uploads/2012/06/pass-gen-header.png>
+
+                    
